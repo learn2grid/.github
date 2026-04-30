@@ -47,6 +47,9 @@ Try to make your code brief, and recognize when less is more.
 The use of agents which write code and submit pull requests without
 human review is not permitted.
 
+We can already run these tools ourselves, if we want to. Contributions
+should provide value beyond running a tool.
+
 #### Pull Request Templates
 
 Please do not replace the pull request template, which is part of the
